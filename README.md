@@ -1,2 +1,3 @@
 # hello-world
-Jst another repository
+Just another repository
+
